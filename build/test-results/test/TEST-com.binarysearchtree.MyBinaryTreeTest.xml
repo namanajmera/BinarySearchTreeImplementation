@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.binarysearchtree.MyBinaryTreeTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-05-07T06:01:58" hostname="HACKERNAMAN" time="0.015">
+<testsuite name="com.binarysearchtree.MyBinaryTreeTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-05-07T06:04:45" hostname="HACKERNAMAN" time="0.037">
   <properties/>
-  <testcase name="givenAllNumbers_WhenAddedToBinaryTree_ShouldReturnSizeAsTotalCountOfNumbers()" classname="com.binarysearchtree.MyBinaryTreeTest" time="0.013"/>
+  <testcase name="givenANumber_WhenSearchedInBinaryTree_AndNotPresent_ShouldReturnNull()" classname="com.binarysearchtree.MyBinaryTreeTest" time="0.031"/>
+  <testcase name="givenAllNumbers_WhenAddedToBinaryTree_ShouldReturnSizeAsTotalCountOfNumbers()" classname="com.binarysearchtree.MyBinaryTreeTest" time="0.002"/>
+  <testcase name="givenANumber_WhenSearchedInBinaryTree_AndPresent_ShouldReturnTheNumber()" classname="com.binarysearchtree.MyBinaryTreeTest" time="0.001"/>
   <testcase name="given3Numbers_WhenAddedToBinaryTree_ShouldReturnSizeThree()" classname="com.binarysearchtree.MyBinaryTreeTest" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
